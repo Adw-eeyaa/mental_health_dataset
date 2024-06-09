@@ -1,0 +1,19 @@
+{
+	"mental_health_data":[
+		{
+			"type":"motivation",
+			"content":"Stay positive and Keep Pushing forward"
+		},
+		{
+			"type":"blog",
+			"title":"How to manage anxiety",
+			"url":"https://psychcentral.com/blog"
+		},
+		{
+			"type":"Videos",
+			"title":"Ease of Mind",
+			"url":"https://www.youtube.com/watch?v=O9qRyFOLdQk"
+
+		}
+	]
+}
